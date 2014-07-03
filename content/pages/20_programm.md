@@ -18,12 +18,12 @@ Als inhaltlichen Impuls werden wir jeden Veranstaltungstag mit einem kurzen Vort
 * Freitag Nachmittag gemeinsames Grillen und Socializing
 
 
-#### Speaker Freitag: (Name) (Thema)
-tbd
+#### Speaker Freitag: Felix Wunderland - Zalando und die wunderbare Welt der Texterstellung
+Wie installiere ich in einem E-Commerce-Monster wie Zalando ein Projekt, welches Sprach und Domain unabhängig alle Produkte auf dem Shop betextet.
 
 
-#### Speaker Samstag: (Name) (Thema)
-tbd
+#### Speaker Samstag: Niki Hoedoro - Arbeit als Computerlinguist
+
 
 Für Speaker-Vorschläge sind wir offen!
 
