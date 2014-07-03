@@ -43,7 +43,7 @@ Die Grundlagen von clunc:
     </tr>
         <tr>
         <td>Anmeldung?</td>
-        <td>noch 49 Plätze frei!</td>
+        <td>noch 23 Plätze frei!</td>
     </tr>
         <tr>
         <td>Kosten?</td>
@@ -69,6 +69,10 @@ aexea
 MFG (Partner)
 
 Esskultur
+
+stattys
+
+Faber-Castell
 
 
 #### Was ist ein Barcamp?
