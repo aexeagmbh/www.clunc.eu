@@ -22,7 +22,7 @@ Als inhaltlichen Impuls werden wir jeden Veranstaltungstag mit einem kurzen Vort
 Wie installiere ich in einem E-Commerce-Monster wie Zalando ein Projekt, welches Sprach und Domain unabhängig alle Produkte auf dem Shop betextet.
 
 
-#### Speaker Samstag: Niki Hoedoro - Arbeit als Computerlinguist
+#### Speaker Samstag: Simon Pokorny - Wie Computerlinguistik und Home24 zusammenarbeiten
 
 
 Für Speaker-Vorschläge sind wir offen!
