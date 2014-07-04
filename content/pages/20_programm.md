@@ -18,7 +18,7 @@ Als inhaltlichen Impuls werden wir jeden Veranstaltungstag mit einem kurzen Vort
 * Freitag Nachmittag gemeinsames Grillen und Socializing
 
 
-#### Speaker Freitag: Felix Wunderland - Zalando und die wunderbare Welt der Texterstellung
+#### Speaker Freitag: Felix Wunderwald - Zalando und die wunderbare Welt der Texterstellung
 Wie installiere ich in einem E-Commerce-Monster wie Zalando ein Projekt, welches Sprach und Domain unabhängig alle Produkte auf dem Shop betextet.
 
 
