@@ -9,20 +9,27 @@ Summary: Vom 11.7. bis 12.7. wird die erste Computational Linguistics Unconferen
 Im Juli findet die erste Computational Linguistics Unkonferenz in Stuttgart statt.
 
 ### clunc [klʌŋk]: 
-#### Wissen teilen, tauschen und erweitern 
 
-clunc ist die erste Unkonferenz zum Thema Computerlinguistik. Experten, Studierende und Interessierte in Stuttgart tauschen sich am 11. Und 12. Juli in Stuttgart über Themen der Computerlinguistik aus.
+Immer wieder dieselbe Aussage: „Es gibt keine Computerlinguisten in der freien Wirtschaft.“. Stimmt das überhaupt? Die Computerlinguisten der **aexea GmbH** liefern den perfekten Gegenbeweis. Am 11. und 12. Juli laden wir zur **ersten Unkonferenz für Computerlinguistik** ein. Ob Du nun Experte, Student oder Autodidakt bist – sei beim deutschlandweit ersten clunc dabei und nimm am kreativen **Austausch über Innovationen und Erfahrungen** teil.
 
-clunc: Themen und Sessions werden von den Teilnehmern gesteuert 
 
-Für clunc ist im Vorfeld kein Ablaufplan vorgegeben. Einen Einstieg in den Tag gibt jeweils ein Impulsvortrag. Danach entwickeln die Teilnehmer am Morgen den Ablauf des Unkonferenz-Tages: Ihr schlagt Themen vor, könnt Sessions leiten, Fragestellungen einwerfen, diskutieren oder zuhören. 
+### Alle macht den Teilnehmern – Ihr macht das clunc zu dem, was es ist
 
-Die Grundlagen von clunc:
+Der einzige vorgeplante Ablauf ist ein Impulsvortrag, der als Einstieg in den Tag dient. Darüber hinaus zeichnet sich ein clunc durch folgendes aus: **die Teilnehmer entwickeln den Sinn und Unsinn dieser Veranstaltung**. Eure Gedanken, Meinungen und Ideen sind alles, was ein clunc braucht.
 
-* Das wichtigste ist der (Wissens-)Austausch.
-* Die Inhalte werden von den Teilnehmern im Tagungsverlauf entwickelt.
-* Alle Teilnehmer begegnen sich auf Augenhöhe.
-* Jeder darf sich so beteiligen, wie er möchte.
+* Ihr **leitet** die Themen-Sessions
+* Ihr **entwickelt** die Inhalte
+* Alle **begegnen** sich auf Augenhöhe – jede Meinung interessiert
+* Jeder **beteiligt** sich, wie er möchte
+* **Kommunikation, Socializing** und eine gute **Verpflegung** macht alle glücklich
+
+Das clunc lockt mit einem überzeugenden **Line-up**: 
+Unter anderen geben **Felix Wunderwald**, ehemals bei **Zalando**, und **Simon Pokorny** von **Home24** Einblick in die Praxis von automatisierter Content-Generation.
+
+
+### Weshalb aexea clunc erfindet
+
+Aexea ist Spezialist auf dem Gebiet, Computerlinguistik-Forschung und freie Marktwirtschaft miteinander zu verbinden. Unsere Innovationen wie **SEO-optimierte Content-Generierung, automatisierte Texterstellung** und **Roboter-Journalismus** verändern die Zukunft von morgen.
 
 ### Fakten
 * vom 11.7. bis 12.7. 
