@@ -7,7 +7,7 @@ Author: Robert Weißgraeber
 Summary: Anmeldung zur clunc
 
 
-## Jetzt anmelden: 23 Tickets verfügbar!
+## Jetzt anmelden: 19 Tickets verfügbar!
 
 Das 2-Tage-Ticket kostet nichts - dank unserer Sponsoren :-)
 ![clunc flyer](http://www.clunc.de/images/clunc_flyer_front.png)
