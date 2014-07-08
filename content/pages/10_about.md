@@ -12,7 +12,7 @@ Summary: Über Clunc
 Immer wieder dieselbe Aussage: „Es gibt keine Computerlinguisten in der freien Wirtschaft.“. Stimmt das überhaupt? Die Computerlinguisten der **aexea GmbH** liefern den perfekten Gegenbeweis. Am 11. und 12. Juli laden wir zur **ersten Unkonferenz für Computerlinguistik** ein. Ob Du nun Experte, Student oder Autodidakt bist – sei beim deutschlandweit ersten clunc dabei und nimm am kreativen **Austausch über Innovationen und Erfahrungen** teil.
 
 
-### Alle macht den Teilnehmern – Ihr macht das clunc zu dem, was es ist
+### Alle Macht den Teilnehmern – Ihr macht das clunc zu dem, was es ist
 
 Der einzige vorgeplante Ablauf ist ein Impulsvortrag, der als Einstieg in den Tag dient. Darüber hinaus zeichnet sich ein clunc durch folgendes aus: **die Teilnehmer entwickeln den Sinn und Unsinn dieser Veranstaltung**. Eure Gedanken, Meinungen und Ideen sind alles, was ein clunc braucht.
 
