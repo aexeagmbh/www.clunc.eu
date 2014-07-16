@@ -8,11 +8,11 @@ Summary: Clunc Sessiondoku 2014
 
 
 Die clunc14 war eine Unkonferenz im besten Sinne und zeigt die Vorteile dieses Formats (wenn die Teilnehmer und das Engagement stimmen): 
-•	großes Themenspektrum – Der Blick über den Tellerrand ist selbstverständlich
-•	unterschiedliche Ansätze durch die Vielfalt der Teilnehmer
-•	Diskussionsfreude und Offenheit
-•	Wissensaustausch in entspannter Atmosphäre
-•	unverkrampftes Netzwerken 
+- großes Themenspektrum – Der Blick über den Tellerrand ist selbstverständlich
+- unterschiedliche Ansätze durch die Vielfalt der Teilnehmer
+- Diskussionsfreude und Offenheit
+- Wissensaustausch in entspannter Atmosphäre
+- unverkrampftes Netzwerken 
 
 
 ##Die Themen der Sessions  am Freitag und Samstag:
