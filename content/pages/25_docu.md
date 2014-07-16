@@ -17,18 +17,18 @@ Die clunc14 war eine Unkonferenz im besten Sinne und zeigt die Vorteile dieses F
 
 ##Die Themen der Sessions  am Freitag und Samstag:
 
-•	Natural Language Generation
-•	Nerdkultur/Hacker Culture
-•	Arbeit als Computerlinguist/in
-•	Kreative Prozesse und Big Data
-•	Sentiment Analysis
-•	Natürliche Sprachen
-•	Datenkonversion von Listen in Text
-•	theoretische Konzepte der Computerlinguisitik
-•	Suchmaschinenoptimierung (SEO)
-•	betriebswirtschaftliche Aspekte der Textgenerieirung
-•	“Guttenberg-App” – Ideen zur Textautomatisierung
-•	Text Mining
+- Natural Language Generation
+- Nerdkultur/Hacker Culture
+- Arbeit als Computerlinguist/in
+- Kreative Prozesse und Big Data
+- Sentiment Analysis
+- Natürliche Sprachen
+- Datenkonversion von Listen in Text
+- theoretische Konzepte der Computerlinguisitik
+- Suchmaschinenoptimierung (SEO)
+- betriebswirtschaftliche Aspekte der Textgenerieirung
+- “Guttenberg-App” – Ideen zur Textautomatisierung
+- Text Mining
 
 
 
