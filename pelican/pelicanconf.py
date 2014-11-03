@@ -31,4 +31,4 @@ RELATIVE_URLS = True
 
 DISPLAY_PAGES_ON_MENU = True
 
-THEME = "newtheme/pelican-foundation"
+THEME = "themes/pelican-foundation"
