@@ -14,7 +14,7 @@ Im Januar findet die zweite Computational Linguistics Unconference in Stuttgart 
 * Format: Unconference
 * bis zu 80 Teilnehmerinnen und Teilnehmer
 
-* zur [Anmeldung](/pages/register.html)
+* zur [Anmeldung](/pages/30_anmeldung.html)
 
 
 ### Was ist eine Unconference (Barcamp)?
