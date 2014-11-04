@@ -3,14 +3,13 @@ Date: 2014-06-07 10:47
 Category: Conference
 Tags: Organisation
 Slug: 30_anmeldung
-Author: Robert Weißgraeber
+Author: Philipp Renger
 Summary: Anmeldung zur clunc
 
 
-## Jetzt anmelden: 19 Tickets verfügbar!
+## Jetzt anmelden: 80 Tickets verfügbar!
 
 Das 2-Tage-Ticket kostet nichts - dank unserer Sponsoren :-)
-![clunc flyer](http://www.clunc.de/images/clunc_flyer_front.png)
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//http://cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
