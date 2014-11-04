@@ -15,18 +15,12 @@ Als inhaltlichen Impuls werden wir jeden Veranstaltungstag mit einem kurzen Vort
 * 10-11 Uhr: kurzer Impulsvortrag, Vorstellungsrunde und Sessionplanung
 * 11-13 und 14-17 Uhr jeweils 1 stündige Sessions
 * 13-14 Uhr Mittagessen
-* Freitag Nachmittag gemeinsames Grillen und Socializing
 
 
-#### Speaker Freitag: Felix Wunderwald - Zalando und die wunderbare Welt der Texterstellung
-Wie installiere ich in einem E-Commerce-Monster wie Zalando ein Projekt, welches Sprach und Domain unabhängig alle Produkte auf dem Shop betextet.
+#### Speaker Freitag: TBA
 
-
-#### Speaker Samstag: Simon Pokorny - Wie Computerlinguistik und Home24 zusammenarbeiten
-
+#### Speaker Samstag: TBA
 
 Für Speaker-Vorschläge sind wir offen!
-
-.
 
 
