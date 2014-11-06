@@ -1,12 +1,12 @@
-Title: Anmeldung Hackation
+Title: Hackathon
 Date: 2014-11-07
 Category: Programm
 Tags: clunc
 Slug: 50_hackathon
-Author: Philipp Renger
+Author: Danijela Grgic
 Summary: Anmeldung
 
-## Anmeldung für Hackaton
+## Anmeldung für Hackathon
 
 
 <!-- Begin MailChimp Signup Form -->
