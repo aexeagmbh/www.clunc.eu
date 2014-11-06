@@ -73,5 +73,4 @@ max: $.validator.format("Geben Sie bitte einen Wert kleiner oder gleich {0} ein.
 min: $.validator.format("Geben Sie bitte einen Wert größer oder gleich {0} ein."),
 creditcard: "Geben Sie bitte ein gültige Kreditkarten-Nummer ein."
 });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-
 <!--End mc_embed_signup—>
