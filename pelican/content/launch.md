@@ -1,6 +1,7 @@
 Title: Willkommen zu clunc - der ersten Unkonferenz für Computerlinguistik
 Date: 2014-06-06 10:20
 Category: Marketing
+Status: hidden
 Tags: clunc, publishing
 Slug: website-launch
 Author: Robert Weißgraeber 
