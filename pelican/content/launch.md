@@ -49,4 +49,3 @@ Wenn du noch nicht weißt was ein Barcamp ist und warum du es besuchen solltest,
 
 
 
-
