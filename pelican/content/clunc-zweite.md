@@ -10,7 +10,7 @@ Im Januar findet die zweite Computational Linguistics Unconference in Stuttgart 
 
 ### clunc [klʌŋk]: 
 
-Immer wieder dieselbe Aussage: „Es gibt keine Computerlinguisten in der freien Wirtschaft.“. Stimmt das überhaupt? Die Computerlinguisten der **aexea GmbH** liefern den perfekten Gegenbeweis. Am 24. und 25. Januar laden wir zur **zweiten Unkonferenz für Computerlinguistik** ein. Ob Du nun Experte, Student oder Autodidakt bist – sei bei der zweiten Auflage der clunc dabei und nimm am kreativen **Austausch über Innovationen und Erfahrungen** teil.
+Immer wieder dieselbe Aussage: „Es gibt keine Computerlinguisten in der freien Wirtschaft.“. Stimmt das überhaupt? Die Computerlinguisten der **aexea GmbH** liefern den perfekten Gegenbeweis. Am 23. und 24. Januar laden wir zur **zweiten Unkonferenz für Computerlinguistik** ein. Ob Du nun Experte, Student oder Autodidakt bist – sei bei der zweiten Auflage der clunc dabei und nimm am kreativen **Austausch über Innovationen und Erfahrungen** teil.
 
 ### Fakten
 * vom 23.01.2015 bis 24.01.2015 
