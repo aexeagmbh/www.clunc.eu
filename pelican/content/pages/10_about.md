@@ -13,7 +13,7 @@ Immer wieder dieselbe Aussage: „Es gibt keine Computerlinguisten in der freien
 
 ### Neuerung zur zweiten clunc
 
-Erstmals wird auf der clunc ein Software Hackathon stattfinden. Ziel ist es innerhalb von 48 Stunden eine **Softwarelösung für eine computerlinguistische Herausforderung** zu entwickeln. Dem durch eine Jury bestimmten Gewinnerteam winkt ein Preisgeld in Höhe von 1.000€. Das zweitplatzierte Team darf sich über 500€ freuen.  
+Erstmals wird auf der clunc ein Software Hackathon stattfinden. Ziel ist es innerhalb von 30 Stunden eine **Softwarelösung für eine computerlinguistische Herausforderung** zu entwickeln. Dem durch eine Jury bestimmten Gewinnerteam winkt ein Preisgeld in Höhe von 1.000€. Das zweitplatzierte Team darf sich über 500€ freuen.  
 
 
 ### Alle Macht den Teilnehmern – Ihr macht das clunc zu dem, was es ist
