@@ -2,7 +2,6 @@ Title: Hackathon
 Date: 2014-11-07
 Category: Programm
 Tags: clunc
-Status: hidden
 Slug: 50_hackathon
 Author: Danijela Grgic
 Summary: Registration
