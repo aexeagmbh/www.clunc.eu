@@ -2,7 +2,7 @@ Title: The Unconference
 Date: 2014-06-09
 Category: Clunc
 Tags: Clunc, Barcamp, Computerlinguistik Unconference
-status: hidden
+Status: hidden
 Slug: 10_about_en
 Author: Philipp Renger
 Summary: About Clunc
