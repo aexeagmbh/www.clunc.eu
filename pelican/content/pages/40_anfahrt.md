@@ -1,48 +1,49 @@
-Title: Anfahrt 
+Title: Arrival 
 Date: 2014-06-09
 Category: Clunc
 Tags: clunc, Barcamp, Computerlinguistik Unconference
-Slug: 40_anfahrt
+Status: hidden
+Slug: 40_anfahrt_en
 Author: Danijela Grgic
-Summary: Anfahrt zu clunc
+Summary: How to get to clunc
 
 
 
-Die Veranstaltung wird bei der MfG Baden-Württemberg stattfinden. Die Räumlichkeiten befinden sich im Literaturhaus Stuttgart 1. OG (Innenstadt).
+Clunc will be held at MfG Baden-Württemberg at Literaturhaus Stuttgart 1. Floor (Stuttgart city center).
 
-Adresse: 
+Address: 
 Literaturhaus Stuttgart
 Breitscheidstraße 4
 70174 Stuttgart
 
-#### So erreicht man das Literaturhaus mit öffentlichen Verkehrsmitteln:
+#### How to get there – public transportation:
 
 <table>
     <tr>
         <td>U 2 / 9 / 14</td>
-        <td>Haltestelle Berliner Platz / Liederhalle</td>
+        <td>Stop Berliner Platz / Liederhalle</td>
     </tr>
         <tr>
         <td>U 4</td>
-        <td>Haltestelle Berliner Platz / Hohe Straße</td>
+        <td>Stop Berliner Platz / Hohe Straße</td>
     </tr>
         <tr>
         <td>Bus 41 / 43</td>
-        <td>Haltestelle Berliner Platz / Liederhalle</td>
+        <td>Stop Berliner Platz / Liederhalle</td>
     </tr>
         <tr>
-        <td>S-Bahnen</td>
-        <td>Haltestelle Stadtmitte</td>
+        <td>Metro</td>
+        <td>Stop Stadtmitte</td>
     </tr>
 </table>
 
 
-#### Parkmöglichkeiten in der Nähe
+#### Where to park your car 
 <table>
     <tr>
-        <td>Parkhaus</td>
-        <td>Tarif</td>
-        <td>Tageskarte</td>
+        <td>parking</td>
+        <td>hourly</td>
+        <td>day ticket</td>
     </tr>
         <tr>
         <td>Liederhalle/Bosch-Areal</td>
@@ -77,4 +78,4 @@ Breitscheidstraße 4
 </table>
 
 
-Öffnungszeiten: durchgehend / Abendtarif: 18 – 6 Uhr
+Open 24/7, pm ticket from 6pm to 6am

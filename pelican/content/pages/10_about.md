@@ -1,72 +1,78 @@
-Title: Die Unkonferenz
+Title: The Unconference
 Date: 2014-06-09
 Category: Clunc
 Tags: Clunc, Barcamp, Computerlinguistik Unconference
-Slug: 10_about
+status: hidden
+Slug: 10_about_en
 Author: Philipp Renger
-Summary: Über Clunc
+Summary: About Clunc
 
 
-## für Computerlinguistik - das clunc [klʌŋk]: 
+## das clunc [klʌŋk]: 
 
-Immer wieder dieselbe Aussage: „Es gibt keine Computerlinguisten in der freien Wirtschaft.“. Stimmt das überhaupt? Die Computerlinguisten der **aexea GmbH** liefern den perfekten Gegenbeweis. Am 23. und 24. Januar laden wir zur **zweiten Unkonferenz für Computerlinguistik** ein. Ob Du nun Experte, Student oder Autodidakt bist – sei dabei und nimm am kreativen **Austausch über Innovationen und Erfahrungen** teil.
+The same old message all over again: „There are no jobs for computational linguists outside of  the university campus!“
 
-### Neuerung zur zweiten clunc
+aexeas CLs are the perfect proof of the opposite. 
 
-Erstmals wird auf der clunc ein Software Hackathon stattfinden. Ziel ist es innerhalb von 30 Stunden eine **Softwarelösung für eine computerlinguistische Herausforderung** zu entwickeln. Dem durch eine Jury bestimmten Gewinnerteam winkt ein Preisgeld in Höhe von 1.000€. Das zweitplatzierte Team darf sich über 500€ freuen.  
-
-
-### Alle Macht den Teilnehmern – Ihr macht das clunc zu dem, was es ist
-
-Der einzige vorgeplante Ablauf ist ein Impulsvortrag, der als Einstieg in den Tag dient. Darüber hinaus zeichnet sich ein clunc durch folgendes aus: **die Teilnehmer entwickeln den Sinn und Unsinn dieser Veranstaltung**. Eure Gedanken, Meinungen und Ideen sind alles, was ein clunc braucht.
-
-* Ihr **leitet** die Themen-Sessions
-* Ihr **entwickelt** die Inhalte
-* Alle **begegnen** sich auf Augenhöhe – jede Meinung interessiert
-* Jeder **beteiligt** sich, wie er möchte
-* **Kommunikation, Socializing** und eine gute **Verpflegung** macht alle glücklich
+We are happy to invite you to our second Computational linguistics unconference – clunc – taking place on January 23 and 24 in Stuttgart, Germany. Open to experts, students, auto didacts – come and enjoy the creative exchange about innovations and experience, gain insights into the latest concepts, network and establish new relationships. 
 
 
-### Weshalb aexea clunc erfindet
+### What's new?
 
-Aexea ist Spezialist auf dem Gebiet, Computerlinguistik-Forschung und freie Marktwirtschaft miteinander zu verbinden. Mit AX Semantics treiben wir Innovationen wie **SEO-optimierte Content-Generierung, automatisierte Texterstellung** und **Roboter-Journalismus** voran und verändern die Zukunft von morgen.
+This time, a software hackathon will take playe at clunc. Within 30 hours, a software-based solution for a computational linguistics challenge is to be developed. 
+A Jury is going to decide, who will win the 1.000 € prize money. The team of the second most promising solution can look forward to 500€.
 
+### Power to the participants – you decide what clunc will be like
+
+The day will start with an impulse panel to kick off your synapsis. CLUNC is a user-generated unconference , the content is provided by the attendees. The participants 
+
+All CLUNC needs are your thoughts, ideas and opinions!
+
+* YOU **lead** the topic sessions
+* YOU **develop** the topics
+* Everyone communicates on an eye level – every opinion counts
+* YOU **contribute** in whichever way they choose 
+* **Learn, share** and **socilaize** in an open environment – great food provided.
+
+
+### Why aexea came up with clunc 
+
+At aexea, we are experts in combining CL and the free economy. Our groundbreaking innovations like SEO-optimized content-generation, automated text generation and robot journalism will chance the future. 
 
 <table>
     <tr>
-        <td>Wann?</td>
+        <td>When?</td>
         <td>23.01. - 24.01.2015</td>
     </tr>
         <tr>
-        <td>Wo?</td>
-        <td>im Literaturhaus Stuttgart</td>
+        <td>Where?</td>
+        <td>Literaturhaus Stuttgart</td>
     </tr>
         <tr>
-        <td>Wer?</td>
-        <td>Computerlinguisten, Redakteure, Programmierer, E-Commerce Anbieter, Verleger, Journalisten, etc. - oder solche die dabei sind, es zu werden.</td>
+        <td>Who?</td>
+        <td>Computational Linguists, editors, programmers, E-Commerce provider, publisher, journalists, .... - or those who consider to bekome one.</td>
     </tr>
         <tr>
-        <td>Anmeldung?</td>
-        <td>noch 80 Plätze frei!</td>
+        <td>Registration?</td>
+        <td> 72 Tickets left!</td>
     </tr>
         <tr>
-        <td>Kosten?</td>
-        <td>Kostenfrei! inkl. Verpflegung</td>
+        <td>Costs?</td>
+        <td>It's free!</td>
     </tr>
 </table>
 
 
 ![clunc Logo](https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/586215/087RZFJMRzWSen7/clunc%20logo%20claim.png)
 
-### Veranstalter
-Veranstaltet von der aexea GmbH in Partnerschaft mit der Medien- und Filmgesellschaft (MFG) Stuttgart
+### Organizer
+Organized by aexea GmbH in cooperation with the MFG Baden-Württemberg
 
-### Sponsoren
+### Sponsors
 aexea
 
 MFG (Partner)
 
-#### Was ist ein Barcamp?
-Wenn du noch nicht weißt was ein Barcamp ist und warum du es besuchen solltest, schau dir bitte das [Barcamp-Erklär-Video] [1] von Jan Theofel an.
+### What is an Unconference (Barcamp)?
 
-[1]: https://www.youtube.com/watch?v=q6UenIRb0Yk
+An unconference is and open participatory workshop/event where the content is provided by the participants.

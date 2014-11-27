@@ -2,11 +2,12 @@ Title: Hackathon
 Date: 2014-11-07
 Category: Programm
 Tags: clunc
+Status: hidden
 Slug: 50_hackathon
 Author: Danijela Grgic
-Summary: Anmeldung
+Summary: Registration
 
-## Anmeldung für Hackathon
+## Register for the Hackathon
 
 
 <!-- Begin MailChimp Signup Form -->
@@ -22,25 +23,25 @@ Summary: Anmeldung
 <h2> </h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-<label for="mce-EMAIL">Email Adresse  <span class="asterisk">*</span>
+<label for="mce-EMAIL">E-mail address  <span class="asterisk">*</span>
 </label>
 <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
-<label for="mce-FNAME">Vorname </label>
+<label for="mce-FNAME">Name </label>
 <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
-<label for="mce-LNAME">Nachname </label>
+<label for="mce-LNAME">Surname </label>
 <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
-<label for="mce-MMERGE3">Ich bin: </label>
+<label for="mce-MMERGE3">I am: </label>
 <select name="MMERGE3" class="" id="mce-MMERGE3">
 <option value=""></option>
-<option value="Software-Entwickler">Software-Entwickler</option>
+<option value="Software Developer">Software Developer</option>
 <option value="Computer-Linguist">Computer-Linguist</option>
-<option value="Redakteur">Redakteur</option>
+<option value="">Editor</option>
 
 </select>
 </div>
@@ -49,7 +50,7 @@ Summary: Anmeldung
 <div class="response" id="mce-success-response" style="display:none"></div>
 </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_df9bb74c49eb8a56bba561233_9fa99d194d" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Anmelden" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="Register" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
@@ -62,7 +63,7 @@ required: "Dieses Feld ist ein Pflichtfeld.",
 maxlength: $.validator.format("Geben Sie bitte maximal {0} Zeichen ein."),
 minlength: $.validator.format("Geben Sie bitte mindestens {0} Zeichen ein."),
 rangelength: $.validator.format("Geben Sie bitte mindestens {0} und maximal {1} Zeichen ein."),
-email: "Geben Sie bitte eine gültige E-Mail Adresse ein.",
+email: "Please enter a valid e-mail address.",
 url: "Geben Sie bitte eine gültige URL ein.",
 date: "Bitte geben Sie ein gültiges Datum ein.",
 number: "Geben Sie bitte eine Nummer ein.",

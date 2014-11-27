@@ -1,26 +1,27 @@
-Title: Ablauf
+Title: Program
 Date: 2014-06-09
 Category: Programm
 Tags: clunc
+status: hidden
 Slug: 20_ablauf
 Author: Philipp Renger
 Summary: 
 
-Eine Unconference hat keine vorher festgelegten Inhalte. Alle Teilnehmer legen das Programm dann zu Beginn der Veranstaltung gemeinsam fest.
+There are no pre-determined topics at CLUNC. At the beginning of the event, all participants decide together what the content of the event will be.
 
-Als inhaltlichen Impuls werden wir jeden Veranstaltungstag mit einem kurzen Vortrag beginnen.
+To start the days off, there will be a short impulse panel in the morning to kick off you synapsis
 
-### Programm?
-* wir starten jeweils um 9:30 mit Kaffee & Frühstück
-* 10-11 Uhr: kurzer Impulsvortrag, Vorstellungsrunde und Sessionplanung
-* 11-13 und 14-17 Uhr jeweils 1 stündige Sessions
-* 13-14 Uhr Mittagessen
+### Program?
+* 9:30am: Breakfast 
+* 10-11am: Keynote speech, introductions and event planning
+* 11am to 1pm and 2 to 5pm:  hourly sessions planned and held by participants
+* 1 to 2pm: Lunch 
 
 
-#### Speaker Freitag: TBA
 
-#### Speaker Samstag: TBA
+#### Friday Speaker: Ken Schwenke - What's on the menue? From automated crime analysis to literally moving information. 
 
-Für Speaker-Vorschläge sind wir offen!
+#### Saturday Speaker: TBA
 
+We are open to your suggestions regarding speakers.
 
