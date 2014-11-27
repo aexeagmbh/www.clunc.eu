@@ -2,7 +2,6 @@ Title: News: clunc goes international!
 Date: 2014-11-05 10:20
 Category: Marketing
 Tags: clunc, publishing, second
-
 Slug: second-clunc
 Author: Philipp Renger
 Summary: The _second_ Computational Linguistics Unconference (clunc) will be held on the 24th & 25th of January!
