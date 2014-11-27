@@ -2,7 +2,6 @@ Title: clunc14
 Date: 2014-07-16
 Category: Clunc
 Tags: Clunc, Barcamp, Computerlinguistik Unconference
-status: hidden
 Slug: 25_docu_en
 Author: Philipp Renger
 Summary: Best of clunc 2014
