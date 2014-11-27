@@ -22,7 +22,7 @@ We are happy to invite you to our second Computational linguistics unconference 
 * in Stuttgart
 * Format: Unconference
 * Up to 80 participants
-•	[registration](/pages/30_anmeldung.html)
+•	[registration](/pages/30_anmeldung_en.html)
 
 
 ### Power to the participants – you decide what clunc will be like
