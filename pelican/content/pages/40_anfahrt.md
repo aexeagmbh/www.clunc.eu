@@ -57,7 +57,7 @@ Breitscheidstraße 4
         <td>15,00 Euro</td>
     </tr>
         <tr>
-        <td>Schlossraße</td>
+        <td>Schlossstraße</td>
         <td>1,50 Euro/Std.</td>
         <td>3,00 Euro</td>
         <td>15,00 Euro</td>
