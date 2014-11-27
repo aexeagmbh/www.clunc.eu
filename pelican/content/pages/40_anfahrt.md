@@ -2,7 +2,6 @@ Title: Arrival
 Date: 2014-06-09
 Category: Clunc
 Tags: clunc, Barcamp, Computerlinguistik Unconference
-Status: hidden
 Slug: 40_anfahrt_en
 Author: Danijela Grgic
 Summary: How to get to clunc
