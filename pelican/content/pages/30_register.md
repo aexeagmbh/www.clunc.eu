@@ -7,7 +7,7 @@ Author: Philipp Renger
 Summary: Anmeldung zur clunc
 
 
-## Jetzt anmelden: 73 Tickets verfügbar!
+## Jetzt anmelden: 72 Tickets verfügbar!
 
 Das 2-Tage-Ticket kostet nichts - dank unserer Sponsoren :-)
 
