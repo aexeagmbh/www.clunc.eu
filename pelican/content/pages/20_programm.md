@@ -2,7 +2,6 @@ Title: Program
 Date: 2014-06-09
 Category: Programm
 Tags: clunc
-status: hidden
 Slug: 20_ablauf
 Author: Philipp Renger
 Summary: 
