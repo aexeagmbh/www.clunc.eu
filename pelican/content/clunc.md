@@ -75,6 +75,3 @@ Computational linguistics is an interdisciplinary field concerned with the stati
 ### What is an Unconference (Barcamp)?
 
 An unconference is and open participatory workshop/event where the content is provided by the participants.
-
-![clunc Logo](https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/586215/087RZFJMRzWSen7/clunc%20logo%20claim.png)
-
