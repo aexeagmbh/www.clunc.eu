@@ -1,3 +1,5 @@
+![clunc Logo](https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/586215/087RZFJMRzWSen7/clunc%20logo%20claim.png)
+
 Title: News: clunc goes international! 
 Date: 2014-11-05 10:20
 Category: Marketing
@@ -45,8 +47,12 @@ A Jury is going to decide, who will win the 1.000 € prize money. The team of t
         <td>Computational Linguists, editors, programmers, E-Commerce provider, publisher, journalists, .... - or those who consider to bekome one.</td>
     </tr>
         <tr>
+        <td>Format?</td>
+        <td> Unconference</td>
+    </tr>
+        <tr>
         <td>Registration?</td>
-        <td> 72 Tickets left!</td>
+        <td> [registration](/pages/30_anmeldung_en.html) 72 Tickets left!</td>
     </tr>
         <tr>
         <td>Costs?</td>
