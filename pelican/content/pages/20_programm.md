@@ -1,8 +1,8 @@
 Title: Program
 Date: 2014-06-09
-Category: Programm
+Category: Program
 Tags: clunc
-Slug: 20_ablauf
+Slug: 20_program
 Author: Philipp Renger
 Summary: 
 
