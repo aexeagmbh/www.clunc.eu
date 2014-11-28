@@ -4,7 +4,7 @@ Category:
 Tags: legal, impressum, aexea, clunc, barcamp
 Slug: 90_imprint
 Author: Danijela Grgic
-Summary: Legal notive for clunc
+Summary: Legal notice for clunc
 
 
 Organiser: aexea GmbH – communication. content. consulting  
