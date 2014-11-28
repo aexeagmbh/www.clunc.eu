@@ -18,19 +18,12 @@ aexeas CLs are the perfect proof of the opposite.
 
 We are happy to invite you to our second Computational linguistics unconference – clunc – taking place on January 23 and 24 in Stuttgart, Germany. Open to experts, students, auto didacts – come and enjoy the creative exchange about innovations and experience, gain insights into the latest concepts, network and establish new relationships. 
 
+[REGISTER NOW](/pages/30_anmeldung_en.html)
 
 ### What's new?
 
 This time, a software hackathon will take playe at clunc. Within 30 hours, a software-based solution for a computational linguistics challenge is to be developed. 
 A Jury is going to decide, who will win the 1.000 € prize money. The team of the second most promising solution can look forward to 500€.
-
-
-### Facts
-* January 23 and 24, 2015 
-* in Stuttgart
-* Format: Unconference
-* Up to 80 participants
-•	[registration](/pages/30_anmeldung_en.html)
 
 <table>
     <tr>
@@ -48,10 +41,6 @@ A Jury is going to decide, who will win the 1.000 € prize money. The team of t
         <tr>
         <td>Format?</td>
         <td> Unconference</td>
-    </tr>
-        <tr>
-        <td>Registration?</td>
-        <td> [registration](/pages/30_anmeldung_en.html) 72 Tickets left!</td>
     </tr>
         <tr>
         <td>Costs?</td>
