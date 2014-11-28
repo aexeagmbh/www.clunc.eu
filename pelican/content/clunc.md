@@ -1,5 +1,3 @@
-![clunc Logo](https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/586215/087RZFJMRzWSen7/clunc%20logo%20claim.png)
-
 Title: News: clunc goes international! 
 Date: 2014-11-05 10:20
 Category: Marketing
