@@ -1,6 +1,6 @@
 Title: Hackathon
 Date: 2014-11-07
-Category: Programm
+Category: Program
 Tags: clunc
 Slug: 50_hackathon
 Author: Danijela Grgic
