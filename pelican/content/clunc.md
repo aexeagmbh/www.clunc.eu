@@ -22,7 +22,7 @@ We are happy to invite you to our second Computational linguistics unconference 
 
 ### What's new?
 
-This time, a software hackathon will take playe at clunc. Within 30 hours, a software-based solution for a computational linguistics challenge is to be developed. 
+This time, a software hackathon will take place at clunc. Within 30 hours, a software-based solution for a computational linguistics challenge is to be developed. 
 A Jury is going to decide, who will win the 1.000 € prize money. The team of the second most promising solution can look forward to 500€.
 
 <table>
@@ -51,14 +51,14 @@ A Jury is going to decide, who will win the 1.000 € prize money. The team of t
 
 ### Power to the participants – you decide what clunc will be like
 
-The day will start with an impulse panel to kick off your synapsis. CLUNC is a user-generated unconference , the content is provided by the attendees. The participants 
+The day will start with an impulse panel to kick off your synapsis. CLUNC is a user-generated unconference , the content is provided by the attendees.
 
 All CLUNC needs are your thoughts, ideas and opinions!
 
 * YOU **lead** the topic sessions
 * YOU **develop** the topics
 * Everyone communicates on an eye level – every opinion counts
-* YOU **contribute** in whichever way they choose 
+* YOU **contribute** in whichever way you choose 
 * **Learn, share** and **socilaize** in an open environment – great food provided.
 
 
