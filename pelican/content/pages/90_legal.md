@@ -1,10 +1,10 @@
-Title: Imprint
+Title: Legal
 Date: 2014-06-09
 Category: 
-Tags: impring, impressum, aexea, clunc, barcamp
+Tags: legal, impressum, aexea, clunc, barcamp
 Slug: 90_imprint
 Author: Danijela Grgic
-Summary: Imprint for clunc
+Summary: Legal notive for clunc
 
 
 Organiser: aexea GmbH – communication. content. consulting  
