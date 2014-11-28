@@ -2,12 +2,12 @@ Title: Registration
 Date: 2014-06-07 10:47
 Category: Conference
 Tags: Organisation
-Slug: 30_anmeldung_en
+Slug: 30_registration
 Author: Philipp Renger
 Summary: Register for clunc
 
 
-## Register now: 72 tickets available!
+## Register now: 71 tickets available!
 
 The conference is free – thank you to our sponsors!
 
