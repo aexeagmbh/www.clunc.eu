@@ -9,6 +9,7 @@ Author: Philipp Renger
 Summary: The _second_ Computational Linguistics Unconference (clunc) will be held on the 24th & 25th of January!
 
 In January 2015, the second (annual) Computional Linguistics Unconference will be held in Stuttgart, Germany.
+![clunc Logo](https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/586215/087RZFJMRzWSen7/clunc%20logo%20claim.png)
 
 
 ### clunc [klʌŋk]: 
