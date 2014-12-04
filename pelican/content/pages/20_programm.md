@@ -8,7 +8,7 @@ Summary:
 
 There are no pre-determined topics at CLUNC. At the beginning of the event, all participants decide together what the content of the event will be.
 
-To start the days off, there will be a short impulse panel in the morning to kick off you synapsis
+To start the day off, there will be a short impulse panel in the morning to kick off your synapsis
 
 ### Program?
 * 9:30am: Breakfast 
@@ -18,7 +18,7 @@ To start the days off, there will be a short impulse panel in the morning to kic
 
 
 
-#### Friday Speaker: Ken Schwenke - What's on the menue? From automated crime analysis to literally moving information. 
+#### Friday Speaker: Ken Schwencke - What's on the menu? From automated crime analysis to literally moving information. 
 
 #### Saturday Speaker: TBA
 
