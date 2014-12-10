@@ -50,7 +50,7 @@ At aexea, we are experts in combining CL and the free economy. Our groundbreakin
     </tr>
         <tr>
         <td>Who?</td>
-        <td>Computational Linguists, editors, programmers, E-Commerce provider, publisher, journalists, .... - or those who consider to bekome one.</td>
+        <td>Computational Linguists, editors, programmers, E-Commerce provider, publisher, journalists, .... - or those who consider to become one.</td>
     </tr>
         <tr>
         <td>Registration?</td>
