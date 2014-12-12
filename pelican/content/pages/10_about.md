@@ -54,7 +54,7 @@ At aexea, we are experts in combining CL and the free economy. Our groundbreakin
     </tr>
         <tr>
         <td>Registration?</td>
-        <td> 53 Tickets left!</td>
+        <td> 51 Tickets left!</td>
     </tr>
         <tr>
         <td>Costs?</td>
