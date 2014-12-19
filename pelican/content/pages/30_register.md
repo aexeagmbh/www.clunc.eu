@@ -7,7 +7,7 @@ Author: Philipp Renger
 Summary: Register for clunc
 
 
-## Register now: 32 tickets available!
+## Register now: 29 tickets available!
 
 The conference is free – thank you to our sponsors!
 
