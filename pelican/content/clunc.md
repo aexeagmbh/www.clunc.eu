@@ -18,7 +18,7 @@ aexeas CLs are the perfect proof of the opposite.
 
 We are happy to invite you to our second Computational linguistics unconference – clunc – taking place on January 23 and 24 in Stuttgart, Germany. Open to experts, students, auto didacts – come and enjoy the creative exchange about innovations and experience, gain insights into the latest concepts, network and establish new relationships. 
 
-[REGISTER NOW](/pages/30_register.html)
+[REGISTER NOW](/pages/30_registration.html)
 
 ### What's new?
 
