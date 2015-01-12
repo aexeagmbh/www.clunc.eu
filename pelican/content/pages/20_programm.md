@@ -20,7 +20,4 @@ To start the day off, there will be a short impulse panel in the morning to kick
 
 #### Friday Speaker: Ken Schwencke - What's on the menu? From automated crime analysis to literally moving information. 
 
-#### Saturday Speaker: TBA
-
-We are open to your suggestions regarding speakers.
-
+#### Saturday Speaker: Christiane Gläser - t.b.a.
