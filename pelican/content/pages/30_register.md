@@ -4,7 +4,7 @@ Category: Conference
 Tags: Organisation
 Slug: 30_registration
 Author: Philipp Renger
-
+Summary: Register for clunc
 
 ###Number of tickets increased to 120 in total!
 ##Register now: still 36 tickets available!
