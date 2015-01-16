@@ -20,4 +20,4 @@ To start the day off, there will be a short impulse panel in the morning to kick
 
 #### Friday Speaker: Ken Schwencke - What's on the menu? From automated crime analysis to literally moving information. 
 
-#### Saturday Speaker: Christiane Gläser - t.b.a.
+#### Saturday Speaker: Christiane Gläser - Providing Information for Global Markets. Localization and Linguistic Asset Management.
