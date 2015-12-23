@@ -1,4 +1,4 @@
-Title: News: clunc goes international! 
+Title: Safe the date: clunc 2016 will be on the 11th and 12th of March! We will keep you posted. 
 Date: 2014-11-05 10:20
 Category: Marketing
 Tags: clunc, publishing, second
@@ -6,7 +6,8 @@ Slug: second-clunc
 Author: Philipp Renger
 Summary: The _second_ Computational Linguistics Unconference (clunc) will be held on the 24th & 25th of January!
 
-In January 2015, the second (annual) Computational Linguistics Unconference will be held in Stuttgart, Germany.
+In March 2016, the third (annual) Computational Linguistics Unconference will be held in Stuttgart, Germany.
+We will announce the keynote speaker in January! 
 ![clunc Logo](https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/586215/087RZFJMRzWSen7/clunc%20logo%20claim.png)
 
 
@@ -16,23 +17,17 @@ The same old message all over again: „There are no jobs for computational ling
 
 aexeas CLs are the perfect proof of the opposite. 
 
-We are happy to invite you to our second Computational linguistics unconference – clunc – taking place on January 23 and 24 in Stuttgart, Germany. Open to experts, students, auto didacts – come and enjoy the creative exchange about innovations and experience, gain insights into the latest concepts, network and establish new relationships. 
+We are happy to invite you to our third Computational linguistics unconference – clunc – taking place on March 11 and 12 in Stuttgart, Germany. Open to experts, students, auto didacts – come and enjoy the creative exchange about innovations and experience, gain insights into the latest concepts, network and establish new relationships. 
 
-[REGISTER NOW](/pages/30_registration.html)
-
-### What's new?
-
-This time, a software hackathon will take place at clunc. Within 30 hours, a software-based solution for a computational linguistics challenge is to be developed. 
-A Jury is going to decide, who will win the 1.000 € prize money. The team of the second most promising solution can look forward to 500€.
 
 <table>
     <tr>
         <td>When?</td>
-        <td>23.01. - 24.01.2015</td>
+        <td>11.03. - 12.03.2016</td>
     </tr>
         <tr>
         <td>Where?</td>
-        <td>Literaturhaus Stuttgart</td>
+        <td>tba</td>
     </tr>
         <tr>
         <td>Who?</td>
@@ -51,7 +46,7 @@ A Jury is going to decide, who will win the 1.000 € prize money. The team of t
 
 ### Power to the participants – you decide what clunc will be like
 
-The day will start with an impulse panel to kick off your synapsis. CLUNC is a user-generated unconference , the content is provided by the attendees.
+The day will start with a keynote to kick off your synapsis. CLUNC is a user-generated unconference , the content is provided by the attendees.
 
 All CLUNC needs are your thoughts, ideas and opinions!
 
