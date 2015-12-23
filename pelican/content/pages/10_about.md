@@ -17,11 +17,6 @@ aexeas CLs are the perfect proof of the opposite.
 We are happy to invite you to our second Computational linguistics unconference – clunc – taking place on January 23 and 24 in Stuttgart, Germany. Open to experts, students, auto didacts – come and enjoy the creative exchange about innovations and experience, gain insights into the latest concepts, network and establish new relationships. 
 
 
-### What's new?
-
-This time, a software hackathon will take playe at clunc. Within 30 hours, a software-based solution for a computational linguistics challenge is to be developed. 
-A Jury is going to decide, who will win the 1.000 € prize money. The team of the second most promising solution can look forward to 500€.
-
 ### Power to the participants – you decide what clunc will be like
 
 The day will start with an impulse panel to kick off your synapsis. CLUNC is a user-generated unconference , the content is provided by the attendees. The participants 
@@ -42,11 +37,11 @@ At aexea, we are experts in combining CL and the free economy. Our groundbreakin
 <table>
     <tr>
         <td>When?</td>
-        <td>23.01. - 24.01.2015</td>
+        <td>11.03. - 12.03.2016</td>
     </tr>
         <tr>
         <td>Where?</td>
-        <td>Literaturhaus Stuttgart</td>
+        <td>tba</td>
     </tr>
         <tr>
         <td>Who?</td>
@@ -54,7 +49,7 @@ At aexea, we are experts in combining CL and the free economy. Our groundbreakin
     </tr>
         <tr>
         <td>Registration?</td>
-        <td> 16 Tickets left!</td>
+        <td> 100 Tickets left!</td>
     </tr>
         <tr>
         <td>Costs?</td>
