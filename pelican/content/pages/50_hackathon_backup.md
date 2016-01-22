@@ -4,6 +4,7 @@ Category: Program
 Tags: clunc
 Slug: 50_hackathon
 Author: Danijela Grgic
+status: hidden
 Summary: Registration
 
 ## Register for the Hackathon
