@@ -23,21 +23,21 @@ The conference is free – thank you to our sponsors!
 	<h2>Subscribe to our mailing list</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Adresse  <span class="asterisk">*</span>
+	<label for="mce-EMAIL">Email Address<span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">Vorname </label>
+	<label for="mce-FNAME">First Name</label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-LNAME">Nachname </label>
+	<label for="mce-LNAME">Last Name</label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-address-group">
 	<div class="mc-field-group">
-	    <label for="mce-MMERGE3-addr1">Adresse </label>
+	    <label for="mce-MMERGE3-addr1">Address</label>
 		<input type="text" value="" maxlength="70" name="MMERGE3[addr1]" id="mce-MMERGE3-addr1" class="">
 	</div>
 	<div class="mc-field-group">
