@@ -20,7 +20,7 @@ We are happy to invite everyone interested to our third computational linguistic
 
 ### A warm welcome to our keynote speakers:
 <br>
-<img align="left" src="https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/884222/kvdfxgiJrvIIZDT/MichaelSteinbrecher.jpg">
+<img align="left" src="https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/884222/XYdSGqWhM7aPjRV/MichaelSteinbrecher.jpg">
 ##### On Friday, March 11th, Prof. Dr. Michael Steinbrecher will kick off the day with his talk about **Big Data - promises and downsides.**
 
 Prof. Dr. Michael Steinbrecher is a well known german journalist and television moderator and is lecturing at the Technical University of Dortmund as Professor for television and videojournalism at the Institute for journalism. Since 2014 he is also working as scientific advisor for the SAP AG, researching new integration possibilities of big data in cross-media-journalism.<br>
@@ -28,12 +28,12 @@ Prof. Dr. Michael Steinbrecher is a well known german journalist and television 
 <br>
 <br>
 <br>
-<img align="right" src="https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/884222/0ydGuRe7zaXsWi0/SimonPokorny.jpg">
+<img align="right" src="https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/884222/UqW2lOLkta3rUef/SimonPokorny.jpg">
 ##### Following Prof. Dr. Michael Steinbrecher, Simon Pokorny will be presenting **Insights of his NLG Project at home24 and how product descriptions and are impacting sales.** [Talk in German]
 
 Simon is looking back at more than 15 years of SEO experience. He has worked for well known e-commerce companies as SEO and is also interessted in online marketing and conversion optimization. When it comes around search engine optimization Simon focuses on technical an strategical concepts. Working with technical concepts in the field of SEO makes the work with tools such as AX Semantics essential. <br>
 <br>
-<img align="left" src="https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/884222/nN5aNYU1sN4kb3W/FrankFeulner.jpg">
+<img align="left" src="https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/884222/9Q9vZ2mq2z1LsZn/FrankFeulner.jpg">
 ##### On Saturday, March 12th, Frank Feulner will talk about **How do editors, copywrithers  and journalists need to shift their competences to be prepared for the future of digital copywrighting.**
 
 Frank Feulner is CTO at AX Semantics, a company that pioneered automated text generation applicable to a wide array of markets including e-commerce, customized newsfeeds, and journalistic content for the fashion, sport and finance industry.
