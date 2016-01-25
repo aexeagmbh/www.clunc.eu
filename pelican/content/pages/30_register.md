@@ -3,6 +3,7 @@ Date: 2014-06-07 10:47
 Category: Conference
 Tags: Organisation
 Slug: 30_registration
+Status: hidden
 Author: Philipp Renger
 Summary: Register for clunc
 
