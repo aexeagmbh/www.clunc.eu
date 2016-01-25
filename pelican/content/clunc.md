@@ -7,7 +7,7 @@ Author: Philipp Renger
 Summary: The_third_ Computational Linguistics Unconference (clunc) will be held on the 11th & 12th of March!
 
 ### March 11 + 12, 2016
-### The third Computational Linguistics Unconference will be held in Stuttgart, Germany.
+##### The third Computational Linguistics Unconference will be held in Stuttgart, Germany.
 #[REGISTER NOW](https://www.eventbrite.com/e/clunc-tickets-21003383686)
 ![clunc Logo](https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/586215/087RZFJMRzWSen7/clunc%20logo%20claim.png)
 
@@ -18,6 +18,7 @@ The evolution of processing power as well as the intelligence that can be put in
 Whereas editors need to think about competences like programming and structuring data, computational linguists now have perspectives in the free economy outside of the university campus.
 
 We are happy to invite everyone interested to our third computational linguistics unconference – clunc – taking place on March 11th and 12th in Stuttgart, Germany. Open to experts, students, auto didacts – come and enjoy the creative exchange about innovations and experience, gain insights into the latest concepts, network and establish new relationships.
+<br>
 
 ### A warm welcome to our keynote speakers:
 <br>
@@ -28,11 +29,11 @@ Prof. Dr. Michael Steinbrecher is a well known german journalist and television 
 <br>
 <br>
 <br>
-<br>
 <img align="right" src="https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/884222/UqW2lOLkta3rUef/SimonPokorny.jpg">
 ##### Following Prof. Dr. Michael Steinbrecher, Simon Pokorny will be presenting **Insights of his NLG Project at home24 and how product descriptions and are impacting sales.** [Talk in German]
 
 Simon is looking back at more than 15 years of SEO experience. He has worked for well known e-commerce companies as SEO and is also interessted in online marketing and conversion optimization. When it comes around search engine optimization Simon focuses on technical an strategical concepts. Working with technical concepts in the field of SEO makes the work with tools such as AX Semantics essential. <br>
+<br>
 <br>
 <img align="left" src="https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/884222/9Q9vZ2mq2z1LsZn/FrankFeulner.jpg">
 ##### On Saturday, March 12th, Frank Feulner will talk about **How do editors, copywrithers  and journalists need to shift their competences to be prepared for the future of digital copywrighting.**
