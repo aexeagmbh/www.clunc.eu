@@ -66,7 +66,6 @@ He studyed German philology and political science, and since 2009, he is respons
     </tr>
 </table>
 #[REGISTER NOW](https://www.eventbrite.com/e/clunc-tickets-21003383686)
-<br>
 ### Power to the participants – you decide what clunc will be like
 
 Apart from our daily keynote to kick off your synapsis, CLUNC is a user-generated unconference where the content is provided by every single attendee.
