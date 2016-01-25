@@ -74,7 +74,7 @@ All CLUNC needs are your thoughts, ideas and opinions!
 
 * YOU **lead** the topic sessions
 * YOU **develop** the topics
-* Everyone communicates on an eye level – every opinion counts
+* Everyone communicates on at eye level – every opinion counts
 * YOU **contribute** in whichever way you choose 
 * **Learn, share** and **socialize** in an open environment with great food and coffee provided.
 <br>
