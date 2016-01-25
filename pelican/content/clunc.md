@@ -1,4 +1,4 @@
-Title: CLUNC 2016 – the future of content generation!
+Title:CLUNC 2016 – the future of content generation!
 Date: 2014-11-05 10:20
 Category: Marketing
 Tags: clunc, publishing, second
@@ -19,6 +19,7 @@ Whereas editors need to think about competences like programming and structuring
 
 We are happy to invite everyone interested to our third computational linguistics unconference – clunc – taking place on March 11th and 12th in Stuttgart, Germany. Open to experts, students, auto didacts – come and enjoy the creative exchange about innovations and experience, gain insights into the latest concepts, network and establish new relationships.
 <br>
+<br>
 
 ### A warm welcome to our keynote speakers:
 <br>
@@ -26,7 +27,6 @@ We are happy to invite everyone interested to our third computational linguistic
 ##### On Friday, March 11th, Prof. Dr. Michael Steinbrecher will kick off the day with his talk about **Big Data - promises and downsides.**
 
 Prof. Dr. Michael Steinbrecher is a well known german journalist and television moderator and is lecturing at the Technical University of Dortmund as Professor for television and videojournalism at the Institute for journalism. Since 2014 he is also working as scientific advisor for the SAP AG, researching new integration possibilities of big data in cross-media-journalism.<br>
-<br>
 <br>
 <br>
 <img align="right" src="https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/884222/UqW2lOLkta3rUef/SimonPokorny.jpg">
