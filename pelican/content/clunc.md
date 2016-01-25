@@ -79,9 +79,9 @@ All CLUNC needs are your thoughts, ideas and opinions!
 * **Learn, share** and **socialize** in an open environment with great food and coffee provided.
 <br>
 <br>
-### Why aexea came up with clunc 
+### Why AX Semantics came up with clunc 
 
-At aexea, we are experts in combining CL and the free economy. Our groundbreaking innovations like SEO-optimized content-generation, automated text generation and robot journalism will change the future. 
+At AX Semantics, we are experts in combining CL and the free economy. Our groundbreaking innovations like SEO-optimized content-generation, automated text generation and robot journalism will change the future. 
 <br>
 <br>
 ### What is computational linguistics?
