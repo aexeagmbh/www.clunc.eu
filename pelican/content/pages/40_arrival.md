@@ -47,4 +47,4 @@ Marienstraße 23
 </table>
 
 
-Open 24/7, pm ticket from 6pm to 6am
+Open 24/7
