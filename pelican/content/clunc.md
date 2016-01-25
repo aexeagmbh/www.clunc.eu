@@ -8,6 +8,7 @@ Summary: The_third_ Computational Linguistics Unconference (clunc) will be held 
 
 ### March 11 + 12, 2016
 ### The third Computational Linguistics Unconference will be held in Stuttgart, Germany.
+#[REGISTER NOW](https://www.eventbrite.com/e/clunc-tickets-21003383686)
 ![clunc Logo](https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/586215/087RZFJMRzWSen7/clunc%20logo%20claim.png)
 
 
@@ -63,7 +64,7 @@ He studyed German philology and political science, and since 2009, he is respons
         <td>It's free!</td>
     </tr>
 </table>
-<br>
+#[REGISTER NOW](https://www.eventbrite.com/e/clunc-tickets-21003383686)
 <br>
 ### Power to the participants – you decide what clunc will be like
 
