@@ -36,7 +36,7 @@ Simon is looking back at more than 15 years of SEO experience. He has worked for
 <br>
 <br>
 <img align="left" src="https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/884222/9Q9vZ2mq2z1LsZn/FrankFeulner.jpg">
-##### On Saturday, March 12th, Frank Feulner will talk about **How do editors, copywrithers  and journalists need to shift their competences to be prepared for the future of digital copywrighting.**
+##### On Saturday, March 12th, Frank Feulner will talk about **How do editors, copywriters  and journalists need to shift their competences to be prepared for the future of digital copywriting.**
 
 Frank Feulner is CTO at AX Semantics, a company that pioneered automated text generation applicable to a wide array of markets including e-commerce, customized newsfeeds, and journalistic content for the fashion, sport and finance industry.
 He studyed German philology and political science, and since 2009, he is responsible for AX Semantic's automated text products, focused on algorithm design and product development.
