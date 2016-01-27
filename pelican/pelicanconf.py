@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u''
-SITENAME = u'clunc - March 11 + 122016, 2016 - Stuttgart'
+SITENAME = u'clunc - March 11 + 12, 2016 - Stuttgart'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
