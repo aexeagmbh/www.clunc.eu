@@ -14,7 +14,7 @@ Summary: The_third_ Computational Linguistics Unconference (clunc) will be held 
 
 ### clunc [klʌŋk]: 
 
-The evolution of processing power as well as the intelligence that can be put into algorithms opens up new perspectives for the content generation industry – this is one of the answers of Big Data. People and time used to  be the bottleneck for content generation, but now it is algorithms and (structured) data, as well as the professional shift of editors and computational linguists and alike.
+The evolution of processing power as well as the intelligence that can be put into algorithms opens up new perspectives for the content generation industry – this is one of the answers of Big Data. People and time used to  be the bottleneck for content generation, but now it is algorithms and (structured) data, as well as the professional shift of experts like editors and computational linguists.
 Editors need to think about competences like programming and structuring data, but computational linguists now have real perspectives in the free economy outside of the university campus.
 
 
@@ -55,7 +55,7 @@ Frank Feulner is CTO at AX Semantics, a company that pioneered automated text ge
     </tr>
         <tr>
         <td>Who?</td>
-        <td>Everyone with an open mind about future technologies for the Publishing, E-Commerce and Business Intelligence. Are you an E-Commerce Provider, Publisher, Journalist, Business Analyst, Computational Linguist, Editor, Programmer, .... - or those who consider to become one.</td>
+        <td>Everyone with an open mind about future technologies for the Publishing, E-Commerce and Business Intelligence. Are you an E-Commerce Provider, Publisher, Journalist, Business Analyst, Computational Linguist, Editor, Programmer, ... - or those who consider to become one.</td>
     </tr>
         <tr>
         <td>Format?</td>
