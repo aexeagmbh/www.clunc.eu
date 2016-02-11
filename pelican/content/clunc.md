@@ -8,7 +8,7 @@ Summary: The_third_ Computational Linguistics Unconference (clunc) will be held 
 
 ### March 11 + 12, 2016
 ##### The third Computational Linguistics Unconference will be held in Stuttgart, Germany.
-#[REGISTER NOW](https://www.eventbrite.com/e/clunc-tickets-21003383686)
+#[REGISTER NOW](https://www.eventbrite.com/e/clunc-weather-hackathon-tickets-21003383686)
 ![clunc Logo](https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/586215/087RZFJMRzWSen7/clunc%20logo%20claim.png)
 
 
@@ -66,7 +66,7 @@ Frank Feulner is CTO at AX Semantics, a company that pioneered automated text ge
         <td>It's free!</td>
     </tr>
 </table>
-#[REGISTER NOW](https://www.eventbrite.com/e/clunc-tickets-21003383686)
+#[REGISTER NOW](https://www.eventbrite.com/e/clunc-weather-hackathon-tickets-21003383686)
 ### Power to the participants – you decide what clunc will be like
 
 Apart from our daily keynote to kick off your synapsis, CLUNC is a user-generated unconference where the content is provided by every single attendee.
