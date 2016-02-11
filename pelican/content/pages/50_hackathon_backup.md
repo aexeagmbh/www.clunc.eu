@@ -1,77 +1,61 @@
-Title: Hackathon
-Date: 2014-11-07
+Title: Weather Hackathon
+Date: 2015-02-12
 Category: Program
 Tags: clunc
 Slug: 50_hackathon
-Author: Danijela Grgic
+Author: Philipp Renger
 status: hidden
 Summary: Registration
 
-## Register for the Hackathon
+###2016 CLUNC Weather Hackathon is coming!
 
+#[REGISTER NOW](https://www.eventbrite.com/e/clunc-weather-hackathon-tickets-21003383686)
 
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-  We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//aexea.us8.list-manage.com/subscribe/post?u=df9bb74c49eb8a56bba561233&amp;id=9fa99d194d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-<h2> </h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-<label for="mce-EMAIL">E-mail address  <span class="asterisk">*</span>
-</label>
-<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-<label for="mce-FNAME">Name </label>
-<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-<label for="mce-LNAME">Surname </label>
-<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-<div class="mc-field-group">
-<label for="mce-MMERGE3">I am: </label>
-<select name="MMERGE3" class="" id="mce-MMERGE3">
-<option value=""></option>
-<option value="Software Developer">Software Developer</option>
-<option value="Computer-Linguist">Computer-Linguist</option>
-<option value="">Editor</option>
+We host this hackathon to inspire the next generation of computational linguists, editors and journalists.
 
-</select>
-</div>
-<div id="mce-responses" class="clear">
-<div class="response" id="mce-error-response" style="display:none"></div>
-<div class="response" id="mce-success-response" style="display:none"></div>
-</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_df9bb74c49eb8a56bba561233_9fa99d194d" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Register" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='dropdown'; /*
- * Translated default messages for the $ validation plugin.
- * Locale: DE
- */
-$.extend($.validator.messages, {
-required: "Dieses Feld ist ein Pflichtfeld.",
-maxlength: $.validator.format("Geben Sie bitte maximal {0} Zeichen ein."),
-minlength: $.validator.format("Geben Sie bitte mindestens {0} Zeichen ein."),
-rangelength: $.validator.format("Geben Sie bitte mindestens {0} und maximal {1} Zeichen ein."),
-email: "Please enter a valid e-mail address.",
-url: "Geben Sie bitte eine gültige URL ein.",
-date: "Bitte geben Sie ein gültiges Datum ein.",
-number: "Geben Sie bitte eine Nummer ein.",
-digits: "Geben Sie bitte nur Ziffern ein.",
-equalTo: "Bitte denselben Wert wiederholen.",
-range: $.validator.format("Geben Sie bitten einen Wert zwischen {0} und {1}."),
-max: $.validator.format("Geben Sie bitte einen Wert kleiner oder gleich {0} ein."),
-min: $.validator.format("Geben Sie bitte einen Wert größer oder gleich {0} ein."),
-creditcard: "Geben Sie bitte ein gültige Kreditkarten-Nummer ein."
-});}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-<!-- End mc_embed_signup -->
+After running our first CLUNC hackathon last year, we are incredibly excited to announce this years hackathon with even better conditions!
+
+AX Semantics together with weather guru Jörg Kachelmann invite you to get hands on 2016 CLUNC Weather Hackathon. We will provide  the necessary weather data, mentors to help you get what you need plus access to our tools that we use to build our text engines, at no charge. We will be giving away cash to the top two hardware hack teams such as a technical review with San Francisco accelerator Highway 1 and even cash!
+
+Join us and over 100 linguists, developers, tinkerers, and innovators March 11-12 for two days dedicated to think forward, developing ideas and hacking data.
+
+We’re welcoming all participants or existing teams to be part of CLUNC and the Weather Hackathon.
+
+SCHEDULE
+
+<table>
+    <tr>
+        <td>Friday, March 11, 2016</td>
+        <td>Saturday, March 12, 2016</td>
+    </tr>
+        <tr>
+        <td>4:00 pm</td>
+        <td>Frank Feulner introduces ATML3 & the AX towards interested hackathon participants</td>
+        <td>9:00 am</td>
+        <td>Building opens to start coding</td>
+    </tr>
+        <tr>
+        <td>5:00 pm</td>
+        <td>Jury is being introduced and teams are being build and named in front of all participants</td>
+        <td>9:30 am</td>
+        <td>Morning Kick-Off</td>
+    </tr>
+        <tr>
+        <td>5:30 pm</td>
+        <td>Teams get access to all available weather data and programs.</td>
+        <td>1:30 pm</td>
+        <td>Jury takes a look at the teams outcome</td>
+    </tr>
+        <tr>
+        <td>6:00 pm</td>
+        <td>Start coding</td>
+        <td>2:00 pm</td>
+        <td>Demonstration</td>
+    </tr>
+        <tr>
+        <td>10:00 pm</td>
+        <td>Building closes</td>
+        <td>2:30 pm</td>
+        <td>Announcement of second and first place by the jury.</td>
+    </tr>
+</table>
