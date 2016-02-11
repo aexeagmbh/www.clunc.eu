@@ -26,7 +26,9 @@ SCHEDULE
 <table>
     <tr>
         <td>Friday, March 11, 2016</td>
+        <td></td>
         <td>Saturday, March 12, 2016</td>
+        <td></td>
     </tr>
         <tr>
         <td>4:00 pm</td>
