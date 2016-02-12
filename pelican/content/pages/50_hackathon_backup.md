@@ -31,8 +31,8 @@ SCHEDULE
         <td>March 12, 2016</td>
     </tr>
         <tr>
-        <td>4:00 pm</td>
-        <td>Frank Feulner introduces ATML3 & the AX towards interested hackathon participants</td>
+        <td>3:00 pm</td>
+        <td>Frank Feulner introduces ATML3 & AX – #[click here ATML3 Documentation](http://atml3.rocks/)</td>
         <td>9:00 am</td>
         <td>Building opens to start coding</td>
     </tr>
