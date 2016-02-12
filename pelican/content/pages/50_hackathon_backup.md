@@ -32,7 +32,7 @@ SCHEDULE
     </tr>
         <tr>
         <td>3:00 pm</td>
-        <td>Frank Feulner introduces ATML3 & AX – click here ATML3 Documentation: http://atml3.rocks/ </td>
+        <td>Frank Feulner introduces ATML3 & AX – click here for ATML3 Documentation: http://atml3.rocks/ </td>
         <td>9:00 am</td>
         <td>Building opens to start coding</td>
     </tr>
