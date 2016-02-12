@@ -45,7 +45,7 @@ SCHEDULE
         <tr>
         <td>5:30 pm</td>
         <td>Teams get access to all available weather data and programs.</td>
-        <td>1:30 pm</td>
+        <td>1:00 pm</td>
         <td>Jury takes a look at the teams outcome</td>
     </tr>
         <tr>
