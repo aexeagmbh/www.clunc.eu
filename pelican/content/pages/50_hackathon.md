@@ -6,13 +6,13 @@ Slug: 50_hackathon
 Author: Philipp Renger
 Summary: Registration
 
-###2016 CLUNC Weather Hackathon is coming!
+###2016 CLUNC Weather Hackathon – weather on steroids!
 
 #[REGISTER NOW](https://www.eventbrite.com/e/clunc-weather-hackathon-tickets-21003383686)
 
 We host this hackathon to inspire the next generation of computational linguists, editors and journalists.
 
-After running our first CLUNC hackathon last year, we are incredibly excited to announce this years hackathon with even better conditions!
+After running our first CLUNC hackathon last year, we are incredibly excited to announce this years hackathon!
 
 AX Semantics together with weather guru Jörg Kachelmann invite you to get your hands on 2016 CLUNC Weather Hackathon. Kachelmannwetter.com will provide the necessary weather data, mentors to help you get what you need plus access to our tools that we use to build our text engines, at no charge. We will be giving away cash to the top two hack teams.
 
