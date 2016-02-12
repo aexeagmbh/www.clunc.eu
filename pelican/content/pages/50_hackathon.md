@@ -4,7 +4,6 @@ Category: Program
 Tags: clunc
 Slug: 50_hackathon
 Author: Philipp Renger
-status: hidden
 Summary: Registration
 
 ###2016 CLUNC Weather Hackathon is coming!
