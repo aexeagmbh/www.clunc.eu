@@ -14,13 +14,13 @@ We host this hackathon to inspire the next generation of computational linguists
 
 After running our first CLUNC hackathon last year, we are incredibly excited to announce this years hackathon with even better conditions!
 
-AX Semantics together with weather guru Jörg Kachelmann invite you to get hands on 2016 CLUNC Weather Hackathon. We will provide  the necessary weather data, mentors to help you get what you need plus access to our tools that we use to build our text engines, at no charge. We will be giving away cash to the top two hardware hack teams such as a technical review with San Francisco accelerator Highway 1 and even cash!
+AX Semantics together with weather guru Jörg Kachelmann invite you to get your hands on 2016 CLUNC Weather Hackathon. Kachelmannwetter.com will provide the necessary weather data, mentors to help you get what you need plus access to our tools that we use to build our text engines, at no charge. We will be giving away cash to the top two hack teams.
 
 Join us and over 100 linguists, developers, tinkerers, and innovators March 11-12 for two days dedicated to think forward, developing ideas and hacking data.
 
 We’re welcoming all participants or existing teams to be part of CLUNC and the Weather Hackathon.
 
-SCHEDULE
+##SCHEDULE
 
 <table>
     <tr>
