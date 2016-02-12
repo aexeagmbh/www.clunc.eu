@@ -1,4 +1,4 @@
-Title: Weather Hackathon
+Title: 2016 CLUNC Weather Hackathon
 Date: 2015-02-12
 Category: Program
 Tags: clunc
@@ -6,7 +6,7 @@ Slug: 50_hackathon
 Author: Philipp Renger
 Summary: Registration
 
-###2016 CLUNC Weather Hackathon – weather on steroids!
+###Weather on Steroids!
 
 #[REGISTER NOW](https://www.eventbrite.com/e/clunc-weather-hackathon-tickets-21003383686)
 
