@@ -37,7 +37,7 @@ We’re welcoming all participants or existing teams to be part of CLUNC and the
     </tr>
         <tr>
         <td>5:00 pm</td>
-        <td>Jury is being introduced and teams are being build and named in front of all participants</td>
+        <td>Jury is being introduced and teams are being formed and named in front of all participants</td>
         <td>9:30 am</td>
         <td>Morning Kick-Off</td>
     </tr>
