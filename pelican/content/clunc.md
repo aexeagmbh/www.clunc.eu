@@ -48,7 +48,8 @@ Frank Feulner is CTO at AX Semantics, a company that pioneered automated text ge
 
 We host this hackathon to inspire the next generation of computational linguists, editors and journalists.
 #[READ MORE](http://www.clunc.eu/pages/50_hackathon.html)
-
+<br>
+<br>
 <table>
     <tr>
         <td>When?</td>
