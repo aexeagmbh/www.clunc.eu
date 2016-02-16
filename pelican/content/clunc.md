@@ -1,13 +1,13 @@
-Title:CLUNC 2016 – the future of content generation!
+Title:CLUNC 2016 & Weather Hackathon – the future of content generation!
 Date: 2014-11-05 10:20
 Category: Marketing
 Tags: clunc, publishing, second
 Slug: second-clunc
 Author: Philipp Renger
-Summary: The_third_ Computational Linguistics Unconference (clunc) will be held on the 11th & 12th of March!
+Summary: The_third_ Computational Linguistics Unconference (clunc) & it's corresponding Weather Hackathon will be held on the 11th & 12th of March!
 
 ### March 11 + 12, 2016
-##### The third Computational Linguistics Unconference will be held in Stuttgart, Germany.
+##### The third Computational Linguistics Unconference & it's corresponding Weather Hackathon will be held in Stuttgart, Germany.
 #[REGISTER NOW](https://www.eventbrite.com/e/clunc-weather-hackathon-tickets-21003383686)
 ![clunc Logo](https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/81297/586215/087RZFJMRzWSen7/clunc%20logo%20claim.png)
 
@@ -44,6 +44,11 @@ Frank Feulner is CTO at AX Semantics, a company that pioneered automated text ge
 <br>
 <br>
 <br>
+### About the Weather Hackathon
+
+We host this hackathon to inspire the next generation of computational linguists, editors and journalists.
+#[READ MORE](http://www.clunc.eu/pages/50_hackathon.html)
+
 <table>
     <tr>
         <td>When?</td>
